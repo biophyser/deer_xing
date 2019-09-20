@@ -1,0 +1,8 @@
+/data
+/vt_model/*.png
+/vt_model/*.svg
+/vt_model/*.csv
+/vt_model/*.kml
+*.ipynb_checkpoints
+geckodriver.log
+*.swp
